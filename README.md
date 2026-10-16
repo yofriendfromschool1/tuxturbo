@@ -1164,7 +1164,7 @@ No sysctl survives bad hardware:
 
 ## 🤝 Contributing
 
-PRs welcome for: new tweaks (with pros/cons + difficulty-by-distro), distro corrections, benchmark results. See [CONTRIBUTING.md](CONTRIBUTING.md). ShellCheck-clean bash only.
+PRs welcome for: new tweaks (with pros/cons + difficulty-by-distro), distro corrections, benchmark results.
 
 ## 📜 License & Credits
 
