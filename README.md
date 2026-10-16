@@ -1168,7 +1168,7 @@ PRs welcome for: new tweaks (with pros/cons + difficulty-by-distro), distro corr
 
 ## 📜 License & Credits
 
-MIT © YOU — see [LICENSE](LICENSE).
+MIT © yofriendfromschool1 — see [LICENSE](LICENSE).
 
 Standing on the shoulders of: **Arch Wiki** (the greatest Linux documentation on Earth), **Phoronix** (Michael Larabel's kernel benchmarks), zram-generator docs, Feral GameMode, CachyOS, Liquorix/XanMod maintainers, and every kernel developer.
 
